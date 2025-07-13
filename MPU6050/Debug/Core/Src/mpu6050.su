@@ -1,0 +1,4 @@
+../Core/Src/mpu6050.c:15:6:mpu6050_init	32	static
+../Core/Src/mpu6050.c:59:6:mpu6050_read	32	static
+../Core/Src/mpu6050.c:66:6:mpu6050_read_all	104	static
+../Core/Src/mpu6050.c:104:6:mpu6050_complementary_filter	96	static

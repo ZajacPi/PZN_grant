@@ -1,0 +1,13 @@
+/*
+ * mpu6050.h
+ *
+ *  Created on: Jul 13, 2025
+ *      Author: Piotr Zając
+ */
+
+#ifndef INC_MPU6050_H_
+#define INC_MPU6050_H_
+
+void mpu6050_init();
+
+#endif /* INC_MPU6050_H_ */
